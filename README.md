@@ -5,7 +5,7 @@
 1. Creare un repository Git in locale.
 1. Effettuare *almeno* le seguenti **modifiche** (in una o più commit):
     1. Aggiungere un nuovo file *hello.c* all'interno di una cartella *source*.
-    1. Modificare il contenuto del file inserendo il codice per stampare a video la scritta *"Hello world!"*.
+    1. Scrivere il codice per stampare a video la scritta *"Hello, world!"*.
 1. Creare un repository su GitHub e collegarlo a quello locale.
 1. Allineare il repository remoto su GitHub con le modifiche effettuate.
 1. **Consegnare su Classroom uno screenshot con i comandi eseguiti dalla bash e il repository locale.**
